@@ -13,7 +13,7 @@
 //#include "llist.h"
 
 template <typename E>
-class Transpose{
+class Transpose: public SelfOrderedListADT<E>{
     
     
 public:

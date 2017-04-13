@@ -7,8 +7,8 @@
 // used for the software examples.
 
 // First, include all the standard headers that we need
-#ifndef BOOK_H
-#define BOOK_H
+#ifndef Book_h
+#define Book_h
 
 #include <iostream>
 #include <cstdlib>

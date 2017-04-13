@@ -10,7 +10,7 @@
 template <typename E>
 Count<E>::Count()
 {
-    
+    count = 0;
 }
 
 
@@ -38,14 +38,14 @@ void Count<E>::add(const E& it)
 template <typename E>
 int Count<E>::getCompares() const
 {
-    
+    return 1;
 }
 
 
 template <typename E>
 int Count<E>::size() const
 {
-    
+    return 1;
 }
 
 

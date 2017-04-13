@@ -14,7 +14,8 @@
 
 template <typename E>
 class MoveToFront: public SelfOrderedListADT<E>{
-    
+    //LList<E> list;
+    static int compares;
     
 public:
     MoveToFront();

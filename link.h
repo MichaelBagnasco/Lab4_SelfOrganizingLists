@@ -1,5 +1,5 @@
-#ifndef LINK_H
-#define	LINK_H
+#ifndef Link_h
+#define	Link_h
 
 #include <cstdlib>
 

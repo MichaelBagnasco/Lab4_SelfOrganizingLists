@@ -38,14 +38,14 @@ void Transpose<E>::add(const E& it)
 template<typename E>
 int Transpose<E>::getCompares() const
 {
-    
+    return 1;
 }
 
 
 template<typename E>
 int Transpose<E>::size() const
 {
-    
+    return 1;
 }
 
 

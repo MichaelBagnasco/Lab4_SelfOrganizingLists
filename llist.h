@@ -1,5 +1,5 @@
-#ifndef LLIST_H
-#define	LLIST_H
+#ifndef LList_h
+#define	LList_h
 
 #include "book.h"
 #include "link.h"

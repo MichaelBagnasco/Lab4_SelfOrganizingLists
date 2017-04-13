@@ -10,11 +10,11 @@
 
 #include <stdio.h>
 #include "SelfOrderedListADT.h"
-//#include "llist.h"
+#include "llist.h"
 
 template <typename E>
 class Count: public SelfOrderedListADT<E>{
-
+    int count;
     
 public:
     Count();
